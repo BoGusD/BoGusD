@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+//<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoGusD)](https://github.com/BoGusD)
+//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoGusD)](https://github.com/BoGusD)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoGusD)](https://github.com/BoGusD) -->
+//<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoGusD)](https://github.com/BoGusD) -->
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
