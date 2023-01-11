@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-//<div align="center">
-
-//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoGusD)](https://github.com/BoGusD)
-
-//<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoGusD)](https://github.com/BoGusD) -->
-
+<div align="center">
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black" height="25"/>&nbsp
