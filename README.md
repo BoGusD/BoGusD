@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="25"/>&nbsp
 <br/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black" height="25"/>&nbsp
