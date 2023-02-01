@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25"/>&nbsp
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Mysql&logoColor=yellow" height="25"/>&nbsp
+  
 <br/>
 </p>
 <br> 
