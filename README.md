@@ -1,19 +1,10 @@
 
 
-<!--
-**BoGusD/BoGusD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
 
 <div align="center">
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -30,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25"/>&nbsp
-<img src="https://img.shields.io/badge/Mysql-47A248?style=flat-square&logo=Mysql&logoColor=yellow" height="25"/>&nbsp
+<img src="https://img.shields.io/badge/Mysql-CC6699?style=flat-square&logo=Mysql&logoColor=yellow" height="25"/>&nbsp
   
 <br/>
 </p>
