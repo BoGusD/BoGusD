@@ -36,6 +36,7 @@
   <h3>Other</h3>
 <img src="https://img.shields.io/badge/PostMan-FFBF00?style=flat-square&logo=PostMan&logoColor=white" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black" height="25"/>&nbsp
+  <img src="https://img.shields.io/badge/WebPack-1572B6?style=flat-square&logo=WebPack&logoColor=black" height="25"/>&nbsp
 </p>
 <br> 
 
