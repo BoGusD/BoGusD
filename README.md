@@ -27,6 +27,7 @@
   <h3>DBMS</h3>
 <img src="https://img.shields.io/badge/Mysql-CC6699?style=flat-square&logo=Mysql&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black" height="25"/>&nbsp
+  <img src="https://img.shields.io/badge/FireBase-1572B6?style=flat-square&logo=FireBase&logoColor=black" height="25"/>&nbsp
   <br/>
   <h3>DevOps</h3>
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white" height="25"/>&nbsp
