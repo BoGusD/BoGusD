@@ -30,10 +30,11 @@
   <img src="https://img.shields.io/badge/FireBase-1572B6?style=flat-square&logo=FireBase&logoColor=black" height="25"/>&nbsp
   <br/>
   <h3>DevOps</h3>
+<img src="https://img.shields.io/badge/Slack-F7DF1E?style=flat-square&logo=Slack&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Figma-AA5417?style=flat-square&logo=Figma&logoColor=white" height="25"/>&nbsp
-  <img src="https://img.shields.io/badge/Slack-1572B6?style=flat-square&logo=Slack&logoColor=black" height="25"/>&nbsp
+
   <br/>
   <h3>Other</h3>
 <img src="https://img.shields.io/badge/PostMan-FFBF00?style=flat-square&logo=PostMan&logoColor=white" height="25"/>&nbsp
